@@ -747,6 +747,7 @@ a.mdl-navigation__link {
   .underlay-text {
     font-size: 109px;
     margin-top: 400px;
+    opacity: 20;
   }
 
   .projects-grid {

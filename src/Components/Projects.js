@@ -90,12 +90,12 @@ class Projects extends Component {
 
 <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
   <CardTitle className="nice-card1">
-    Playstation Landing Page
+    Spotify Clone
   </CardTitle>
   <CardText></CardText>
   <CardActions border>
     <a
-      href="https://kayz-mann.github.io/Playstation-5/"
+      href="https://spotifyng-clone.herokuapp.com/"
       rel="noopener noreferrer"
       target="_blank"
     >
@@ -106,11 +106,11 @@ class Projects extends Component {
 </Card>
 
 <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
-  <CardTitle className="nice-card2">Clothing Outfit Page</CardTitle>
+  <CardTitle className="nice-card2">Whatsappweb Clone</CardTitle>
   <CardText></CardText>
   <CardActions border>
     <a
-      href="https://kayz-mann.github.io/Freeman-Collection/"
+      href="https://whatsapp-web-2c2ab.web.app/"
       rel="noopener noreferrer"
       target="_blank"
     >
