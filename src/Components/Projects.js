@@ -71,16 +71,17 @@ class Projects extends Component {
     } else if (this.state.activeTab === 1) {
       return (
         
-
+        // https://kayz-mann.github.io/Login-form/
 <div className="projects-grid">
 <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
-  <CardTitle className="nice-card">Login form</CardTitle>
+  <CardTitle className="nice-card">Google Clone</CardTitle>
   <CardText></CardText>
   <CardActions border>
     <a
-      href="https://kayz-mann.github.io/Login-form/"
+      href="https://clone-97385.web.app/"
       rel="noopener noreferrer"
       target="_blank"
+      
     >
       {" "}
       <Button colored>Live Demo</Button>
